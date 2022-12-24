@@ -1,0 +1,1257 @@
+@media(max-width: 1320px){
+	.summertime-card {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.card--left {
+    	margin: 0 0 30px 0;
+
+}
+
+@media(max-width: 1220px){
+
+	[class*="__inner"]{
+	margin: 0 auto;
+	padding: 0 20px
+	}
+
+	/* TOP-LINE */
+
+	.top-line {
+	}
+	.top-line--left {
+	}
+	.top-line__link {
+	}
+	.top-line--center {
+	}
+	.top-line--right {
+	}
+	.top-line__link--right {
+	}
+	.top-line__link--icon {
+	}
+
+	/* HEADER */
+
+
+	.header {
+	}
+
+	.header__inner{
+
+	}
+
+	.img__backgraund{
+		display: none;
+	}
+	.header__header {
+	}
+	.header__text {
+
+	}
+	.button {
+	}
+	.header__button {
+	}
+	.header__centre {
+	}
+	.header__footer {
+	}
+
+	/* SUMMERTIME */
+
+
+	.summertime {
+	}
+	.summertime-card {
+		
+	}
+	.summertime__card {
+	}
+	.card {
+	}
+	.card--left {
+		
+	}
+	.card__inside--left {
+	}
+	.card__header {
+	}
+	.card__text {
+	}
+	.card__btn {
+	}
+	.btn {
+	}
+	.card__inside__right {
+	}
+	.card__img {
+	}
+	.card--right {
+	}
+	.summertime-text {
+	}
+	.summertime-text__txt {
+	}
+	.summertime-text__text {
+	}
+
+	/* SNEAKERS */
+
+
+	.sneakers {
+	}
+	.sneakers__top {
+	}
+	.sneakers__header {
+	}
+	.sneakers__btn {
+	}
+	.sneakers__btn--left {
+	}
+	.sneakers__btn--right {
+	}
+	.sneakers-card {
+	}
+	.sneakers__card {
+	}
+	.s-card {
+	}
+	.s-card__img {
+	}
+	.s-card__model {
+	}
+	.s-card__model--left {
+	}
+	.s-card__price {
+	}
+	.s-card__btn {
+	}
+
+	/* CATEGORY */
+
+
+	.category {
+	}
+	.category__header {
+	}
+	.category__content {
+	}
+	.category__content--text {
+	}
+	.category__content--foto {
+	}
+
+	/* LOOKSGOOD */
+
+
+	.looksgood {
+	}
+	.looksgood__header {
+		 margin: 100px 0 50px 0 ;
+	}
+	.looksgood-card {
+		display: grid;
+		grid-template-columns: repeat(1, 100%);
+		align-items: center;
+	    justify-content: center;
+	    justify-items: center;
+	}
+	.looksgood__card {
+		margin: 50px 0;
+	}
+	.looksgood__card--left {
+	}
+	.looksgood__card--header {
+	}
+	.looksgood__card--text {
+
+	}
+	.looksgood__card--button {
+	}
+	.looksgood__card--right {
+	}
+	.looksgood__footer {
+	}
+
+	/* YOURNIKE */
+
+
+	.yournike {
+	}
+	.yournike__header {
+		 margin: 35px 0 0 0 ;
+	}
+	.yournike__text {
+	}
+	.yournike__button {
+	}
+
+	/* FOOTER */
+
+
+	.footer {
+	}
+	.footer-link {
+	}
+	.footer__link--left {
+	}
+	.footer__link {
+	}
+	.footer__link--centr {
+	}
+	.footer__link--right {
+	}
+
+}
+		
+@media(max-width: 991.98px){
+
+	/* TOP-LINE */
+
+	.top-line {
+	}
+	.top-line--left {
+	}
+	.top-line__link {
+	}
+	.top-line--center {
+	}
+	.top-line--right {
+	}
+	.top-line__link--right {
+	}
+	.top-line__link--icon {
+	}
+
+	/* HEADER */
+
+
+	.header {
+	}
+	.header__header {
+	}
+	.header__text {
+	}
+	.button {
+	}
+	.header__button {
+	}
+	.header__centre {
+	}
+	.header__footer {
+	}
+
+	/* SUMMERTIME */
+
+
+	.summertime {
+	}
+	.summertime-card {
+	}
+	.summertime__card {
+	}
+	.card {
+	}
+	.card--left {
+	}
+	.card__inside--left {
+	}
+	.card__header {
+	}
+	.card__text {
+	}
+	.card__btn {
+	}
+	.btn {
+	}
+	.card__inside__right {
+	}
+	.card__img {
+	}
+	.card--right {
+	}
+	.summertime-text {
+	}
+	.summertime-text__txt {
+	}
+	.summertime-text__text {
+	}
+
+	/* SNEAKERS */
+
+
+	.sneakers {
+	}
+	.sneakers__top {
+	}
+	.sneakers__header {
+	}
+	.sneakers__btn {
+	}
+	.sneakers__btn--left {
+	}
+	.sneakers__btn--right {
+	}
+	.sneakers-card {
+	}
+	.sneakers__card {
+	}
+	.s-card {
+	}
+	.s-card__img {
+	}
+	.s-card__model {
+	}
+	.s-card__model--left {
+	}
+	.s-card__price {
+	}
+	.s-card__btn {
+	}
+
+	/* CATEGORY */
+
+
+	.category {
+	}
+	.category__header {
+	}
+	.category__content {
+	}
+	.category__content--text {
+	}
+	.category__content--foto {
+	}
+
+	/* LOOKSGOOD */
+
+
+	.looksgood {
+	}
+	.looksgood__header {
+	}
+	.looksgood-card {
+	}
+	.looksgood__card {
+	}
+	.looksgood__card--left {
+	}
+	.looksgood__card--header {
+	}
+	.looksgood__card--text {
+		margin: 20px 0;
+	}
+	.looksgood__card--button {
+	}
+	.looksgood__card--right {
+	}
+	.looksgood__footer {
+	}
+
+	/* YOURNIKE */
+
+
+	.yournike {
+	}
+	.yournike__header {
+		 margin: 30px 0 0 0 ;
+	}
+	.yournike__text {
+		margin: 15px 0;
+	}
+	.yournike__button {
+	}
+
+	/* FOOTER */
+
+
+	.footer {
+	}
+	.footer-link {
+	}
+	.footer__link--left {
+	}
+	.footer__link {
+	}
+	.footer__link--centr {
+	}
+	.footer__link--right {
+	}
+
+} 
+		
+@media(max-width: 767.98px){
+
+	[class*="__inner"]{
+		margin: 0 auto;
+		padding: 0 20px
+	}
+
+	/* TOP-LINE */
+
+	.top-line {
+	}
+	.top-line--left {
+	}
+	.top-line__link {
+	}
+	.top-line--center {
+	}
+	.top-line--right {
+	}
+	.top-line__link--right {
+	}
+	.top-line__link--icon {
+	}
+
+	/* HEADER */
+
+
+	.header {
+		min-height: 200px;
+	}
+	.header__header {
+		margin: 20px 0 0 0 ;
+		font-size:calc( 16px + (24 + 24 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.header__text {
+		font-size: calc( 12px + (8 + 8 * 0.7) * ((100vw - 375px) / 1400) );
+		margin: 0 0 15px 0;
+	}
+
+	.button {
+	}
+	.header__button {
+		font-size:calc( 10px + (6 + 6 * 0.7) * ((100vw - 375px) / 1400) );
+		padding: 6px 20px;
+	}
+	.header__centre {
+	}
+	.header__footer {
+	}
+
+	/* SUMMERTIME */
+
+
+	.summertime {
+	}
+	.summertime-card {
+	}
+	.summertime__card {
+	}
+	.card {
+	}
+	.card--left {
+	}
+	.card__inside--left {
+		flex-wrap: nowrap;
+		justify-content: center;
+		padding: 0 0 0 30px;
+		min-width: 185px;
+	}
+	.card__header {
+		font-size:calc( 16px + (32 + 32 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.card__text {
+		font-size:calc( 12px + (8 + 8 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.card__btn {
+	}
+	.btn {
+	}
+	.card__inside__right {
+	}
+	.card__img {
+	}
+	.card--right {
+	}
+	.summertime-text {
+	}
+	.summertime-text__txt {
+		line-height: 20px;
+		font-size:calc( 16px + (24 + 24 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.summertime-text__text {
+		font-size:calc( 24px + (56 + 56 * 0.7) * ((100vw - 375px) / 1400) );
+		line-height: 29px;
+		margin: 15px 0 20px 0;
+	}
+
+	/* SNEAKERS */
+
+
+	.sneakers {
+	}
+	.sneakers__top {
+	}
+	.sneakers__header {
+		font-size:calc( 16px + (24 + 24 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.sneakers__btn {
+	}
+	.sneakers__btn--left {
+	}
+	.sneakers__btn--right {
+		
+	}
+	.sneakers-card {
+	}
+	.sneakers__card {
+	}
+	.s-card {
+	}
+	.s-card__img {
+	}
+	.s-card__model {
+		font-size:calc( 16px + (24 + 24 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.s-card__model--left {
+	}
+	.s-card__price {
+		font-size:calc( 12px + (8 + 8 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.s-card__btn {
+	}
+
+	/* CATEGORY */
+
+
+	.category {
+	}
+	.category__header {
+		font-size:calc( 16px + (24 + 24 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.category__content {
+	}
+	.category__content--text {
+	}
+	.category__content--foto {
+	}
+
+	/* LOOKSGOOD */
+
+
+	.looksgood {
+	}
+	.looksgood__header {
+		flex-wrap: wrap;
+		font-size:calc( 24px + (16 + 16 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.looksgood-card {
+	}
+	.looksgood__card {
+	}
+	.looksgood__card--left {
+	}
+	.looksgood__card--header {
+		font-size:calc( 12px + (12 + 12 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.looksgood__card--text {
+		font-size:calc( 12px + (12 + 12 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.looksgood__card--button {
+	}
+	.looksgood__card--right {
+	}
+	.looksgood__footer {
+		margin: 50px 0 20px 0;
+		font-size:calc( 16px + (24 + 24 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+
+	/* YOURNIKE */
+
+
+	.yournike {
+	}
+	.yournike__header {
+		line-height: 20px;
+		font-size:calc( 16px + (24 + 24 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.yournike__text {
+		line-height: 15px;
+		font-size:calc( 12px + (8 + 8 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.yournike__button {
+		font-size:calc( 10px + (6 + 6 * 0.7) * ((100vw - 375px) / 1400) );
+		line-height: 12px;
+
+	}
+
+	/* FOOTER */
+
+
+	.footer {
+		background: url(../img/biglogo1.1.png), #000;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+	.footer-link {
+	}
+	.footer__link--left {
+	}
+	.footer__link {
+		font-size:calc( 10px + (8 + 8 * 0.7) * ((100vw - 375px) / 1400) );
+	}
+	.footer__link--centr {
+	}
+	.footer__link--right {
+	}
+
+}
+		
+@media(max-width: 479.98px){
+
+	/* TOP-LINE */
+
+	.top-line {
+	}
+	.top-line--left {
+	}
+	.top-line__link {
+	}
+	.top-line--center {
+	}
+	.top-line--right {
+	}
+	.top-line__link--right {
+	}
+	.top-line__link--icon {
+	}
+
+	/* HEADER */
+
+
+	.header {
+		position: relative;
+		width: 100%;
+		min-height: 150px;
+		background: none;
+	}
+
+	.header__inner{
+		position: absolute;
+		bottom: 20px;
+	}
+
+	.img__backgraund{
+		display: block;
+	    position: relative;
+	    width: 100%;
+	    height: auto;
+	}
+
+	.header__header {
+		margin: 0 0;
+		line-height: 20px;
+	}
+	.header__text {
+		line-height: 15px;
+		margin: 12px 0;
+	}
+	.button {
+	    display: inline-block;
+
+	    padding: 9px 11px;
+
+	    cursor: pointer;
+
+	    border-radius: 5px;
+	}
+
+	.header__button {
+	}
+	.header__centre {
+	}
+	.header__footer {
+	}
+
+	/* SUMMERTIME */
+
+
+	.summertime {
+	}
+	.summertime-card {
+		flex-wrap: wrap
+	}
+	.summertime__card {
+	}
+	.card {
+	}
+	.card--left {
+	}
+	.card__inside--left {
+		flex-wrap: nowrap;
+		justify-content: center;
+		padding: 0 0 0 30px;
+		min-width: 185px;
+	}
+	.card__header {
+	}
+	.card__text {
+	}
+	.card__btn {
+	}
+	.btn {
+	}
+	.card__inside__right {
+		margin: 0px -30px 0 0px;
+	}
+	.card__img {
+		width: 100%;
+	}
+	.card--right {
+	}
+	.summertime-text {
+	}
+	.summertime-text__txt {
+	}
+	.summertime-text__text {
+	}
+
+	/* SNEAKERS */
+
+
+	.sneakers {
+	}
+	.sneakers__top {
+	}
+	.sneakers__header {
+	}
+	.sneakers__btn {
+	}
+	.sneakers__btn--left {
+	}
+	.sneakers__btn--right {
+		margin: 0 0 0 10px;
+	}
+	.sneakers-card {
+	}
+	.sneakers__card {
+	}
+	.s-card {
+	}
+	.s-card__img {
+	}
+	.s-card__model {
+	}
+	.s-card__model--left {
+	}
+	.s-card__price {
+	}
+	.s-card__btn {
+	}
+
+	/* CATEGORY */
+
+
+	.category {
+	}
+
+	.category__inner{
+		padding: 0 0;
+	}
+	.category__header {
+		padding: 0 25px;
+
+	}
+	.category-content {
+		position: relative;
+		grid-template-columns: repeat(1, 100%);
+		justify-items: center;
+	}
+	.category__content--text {
+		line-height: 49px;
+
+		letter-spacing: 0.3em;
+
+		color: #FFFFFF;
+
+		font-size:40px;
+	}
+
+	.text1, .text2, .text3{
+    position: absolute;
+	}
+
+	.text1{
+		align-self: flex-start;
+		padding: 120px 0 0 0;
+
+	}
+
+	.text2{
+		align-self: center;
+	}
+
+	.text3{
+		align-self: flex-end;
+		padding: 0 0 120px 0;
+
+	}
+
+	.category__content--foto {
+	}
+
+	/* LOOKSGOOD */
+
+
+	.looksgood {
+	}
+	.looksgood__header {
+		display: grid;
+		grid-template-columns: repeat(1, 100%);
+		line-height: 29px;
+	}
+	.looksgood__header p{
+		display: flex;
+	}
+	.looksgood__header p:nth-child(1){
+		
+	}
+	.looksgood__header p:nth-child(2){
+		justify-content: center;
+
+	}
+	.looksgood__header p:nth-child(3){
+		justify-content: end;
+
+	}
+	.looksgood-card {
+	}
+	.looksgood__card {
+	}
+	.looksgood__card--left {
+	}
+	.looksgood__card--header {
+	}
+	.looksgood__card--text {
+	}
+	.looksgood__card--button {
+	}
+	.looksgood__card--right {
+	}
+	.looksgood__footer {
+	}
+
+	/* YOURNIKE */
+
+
+	.yournike {
+		background: url(../img/background3.3.png);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.yournike__header {
+		margin: 30px 0 0 0 ;
+	}
+	.yournike__text {
+		margin: 15px 0;
+	}
+	.yournike__button {
+		padding: 6px 15px;
+	}
+
+	/* FOOTER */
+
+
+	.footer {
+		position: relative;
+	}
+	.footer-link {
+		position: absolute;
+		left: 20px;
+  		right: 20px;
+ 		top:0;
+ 		bottom: 0;
+	}
+	.footer__link--left {
+	}
+	.footer__link {
+		
+	}
+	.footer__link--centr {
+		margin: 10px 0;
+
+	}
+	.footer__link--right {
+	}
+
+}
+			
+@media(max-width: 374.98px){
+
+	/* TOP-LINE */
+
+	.top-line {
+	}
+	.top-line--left {
+	}
+	.top-line__link {
+	}
+	.top-line--center {
+	}
+	.top-line--right {
+	}
+	.top-line__link--right {
+	}
+	.top-line__link--icon {
+	}
+
+	/* HEADER */
+
+
+	.header {
+	}
+
+	.header__inner{
+		bottom: 9px;
+    	
+	}
+	.header__header {
+		margin: 0 auto;
+		line-height: 10px;
+	}
+	.header__text {
+		font-size: calc( 12px + (8 + 8 * 7) * ((100vw - 375px) / 1400) );
+	}
+	.button {
+	}
+	.header__button {
+	}
+	.header__centre {
+	}
+	.header__footer {
+	}
+
+	/* SUMMERTIME */
+
+
+	.summertime {
+	}
+	.summertime-card {
+	}
+	.summertime__card {
+	}
+	.card {
+	}
+	.card--left {
+	}
+	.card__inside--left {
+		justify-content: space-evenly;
+	}
+	.card__header {
+		line-height: 20px;
+		padding: 30px 0 0 0;
+	}
+	.card__text {
+		line-height: 15px;
+		letter-spacing: 0.01em;
+	}
+	.card__btn {
+		margin: 0 25px 25px 0px;
+	}
+	.btn {
+	}
+	.card__inside__right {
+	}
+	.card__img {
+	}
+	.card--right {
+	}
+	.summertime-text {
+	}
+	.summertime-text__txt {
+	}
+	.summertime-text__text {
+	}
+
+	/* SNEAKERS */
+
+
+	.sneakers {
+	}
+	.sneakers__top {
+	}
+	.sneakers__header {
+	}
+	.sneakers__btn {
+	}
+	.sneakers__btn--left {
+	}
+	.sneakers__btn--right {
+	}
+	.sneakers-card {
+	}
+	.sneakers__card {
+	}
+	.s-card {
+	}
+	.s-card__img {
+	}
+	.s-card__model {
+	}
+	.s-card__model--left {
+	}
+	.s-card__price {
+	}
+	.s-card__btn {
+	}
+
+	/* CATEGORY */
+
+
+	.category {
+	}
+	.category__header {
+	}
+	.category__content {
+	}
+	.category__content--text {
+	}
+	.category__content--foto {
+	}
+
+	/* LOOKSGOOD */
+
+
+	.looksgood {
+	}
+	.looksgood__header {
+	}
+	.looksgood-card {
+	}
+	.looksgood__card {
+	}
+	.looksgood__card--left {
+		margin: 0 0 0 30px
+	}
+	.looksgood__card--header {
+		line-height: 15px;
+		margin: 40px 0 0 0;
+	}
+	.looksgood__card--text {
+		margin: 5px 0 20px 0;
+		line-height: 15px;
+}
+	}
+	.looksgood__card--button {
+		display: none;
+	}
+
+	.looksgood__card-btn--smal{
+		display: block;
+	}
+	.looksgood__card--right {
+	}
+	.looksgood__footer {
+	}
+
+	/* YOURNIKE */
+
+
+	.yournike {
+	}
+	.yournike__header {
+	}
+	.yournike__text {
+	}
+	.yournike__button {
+	}
+
+	/* FOOTER */
+
+
+	.footer {
+	}
+	.footer-link {
+	}
+	.footer__link--left {
+	}
+	.footer__link {
+		line-height: 12px;
+	}
+	.footer__link--centr {
+	
+	}
+	.footer__link--right {
+	}
+
+}
+
+@media(max-width: 320.98px){
+
+	/* TOP-LINE */
+
+	.top-line {
+	}
+	.top-line--left {
+	}
+	.top-line__link {
+	}
+	.top-line--center {
+	}
+	.top-line--right {
+	}
+	.top-line__link--right {
+	}
+	.top-line__link--icon {
+	}
+
+	/* HEADER */
+
+
+	.header {
+	}
+	.header__header {
+	}
+	.header__text {
+	 	margin: 9px 0px;
+	}
+	.button {
+	}
+	.header__button {
+		padding: 3px 6px;
+	}
+	.header__centre {
+	}
+	.header__footer {
+	}
+
+	/* SUMMERTIME */
+
+
+	.summertime {
+	}
+	.summertime-card {
+	}
+	.summertime__card {
+	}
+	.card {
+	}
+	.card--left {
+	}
+	.card__inside--left {
+	}
+	.card__header {
+	}
+	.card__text {
+	}
+	.card__btn {
+	}
+	.btn {
+	}
+	.card__inside__right {
+	}
+	.card__img {
+	}
+	.card--right {
+	}
+	.summertime-text {
+	}
+	.summertime-text__txt {
+	}
+	.summertime-text__text {
+	}
+
+	/* SNEAKERS */
+
+
+	.sneakers {
+	}
+	.sneakers__top {
+	}
+	.sneakers__header {
+	}
+	.sneakers__btn {
+	}
+	.sneakers__btn--left {
+	}
+	.sneakers__btn--right {
+	}
+	.sneakers-card {
+	}
+	.sneakers__card {
+	}
+	.s-card {
+	}
+	.s-card__img {
+	}
+	.s-card__model {
+	}
+	.s-card__model--left {
+	}
+	.s-card__price {
+	}
+	.s-card__btn {
+	}
+
+	/* CATEGORY */
+
+
+	.category {
+	}
+	.category__header {
+	}
+	.category__content {
+	}
+	.category__content--text {
+		font-size:25px;
+	}
+	.category__content--foto {
+	}
+
+	/* LOOKSGOOD */
+
+
+	.looksgood {
+	}
+	.looksgood__header {
+	}
+	.looksgood-card {
+	}
+	.looksgood__card {
+	}
+	.looksgood__card--left {
+	}
+	.looksgood__card--header {
+	}
+	.looksgood__card--text {
+	}
+	.looksgood__card--button {
+	}
+	.looksgood__card--right {
+	}
+	.looksgood__footer {
+	}
+
+	/* YOURNIKE */
+
+
+	.yournike {
+	}
+	.yournike__header {
+	}
+	.yournike__text {
+	}
+	.yournike__button {
+	}
+
+	/* FOOTER */
+
+
+	.footer {
+	}
+	.footer-link {
+	}
+	.footer__link--left {
+	}
+	.footer__link {
+	}
+	.footer__link--centr {
+	}
+	.footer__link--right {
+	}
+}
